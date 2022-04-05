@@ -7,7 +7,7 @@ Given how most events moved online during COVID-19, having a strong digital pres
 For this project, the dataset itself is derived from the Twitter accounts itself using API calls. Majority of the code involves extracting the tweets, cleaning them up, and classifying the sentiments of tweets. Following the creation of the dataset, I've analysed the data using packages such as NetworkX, Seaborn, and Matplotlib.
 
 ### How to run
-- Make sure you have the following packages installed: Pandas, NumPy, NLTK, Seaborn, Matplotlib
+- Make sure you have the following packages installed: [Pandas](https://pandas.pydata.org/docs/getting_started/install.html), [NumPy](https://numpy.org/install/), [NLTK](https://www.nltk.org/install.html), [Seaborn](https://seaborn.pydata.org/installing.html), [Matplotlib](https://matplotlib.org/stable/users/installing/index.html)
 - Make sure you have a Twitter Developer account with elevated access
 - Run the code
 
