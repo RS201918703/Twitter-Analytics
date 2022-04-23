@@ -13,8 +13,13 @@ For this project, the dataset itself is derived from the Twitter accounts itself
 - Run the [code](https://github.com/RS201918703/Twitter-Analytics/blob/main/Project%20code.ipynb)
 
 ### Improvements
+- Analysing non-public metrics (Unavailable due my Twitter developer account access)
+- Analysing tweets over the years instead of the last 100 tweets
+- Comparing analysis with other social media platforms like Facebook and Instagram
+- Comparing analysis with other university departments on Twitter
 
 ### Conclusion
+I learned a lot about about API calls on Twitter, but I would now look into the possibility of making the code more efficient. I will try to find a way to loop through the API calls without a higher developer account access. 
 
 ### References
 1. [Twitter APIs](https://developer.twitter.com/en/docs/twitter-api)
