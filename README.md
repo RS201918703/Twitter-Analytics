@@ -27,3 +27,4 @@ I learned a lot about about API calls on Twitter, but I would now look into the 
 3. [Sentiment analysis](https://towardsdatascience.com/step-by-step-twitter-sentiment-analysis-in-python-d6f650ade58d)
 4. [TextBlob](https://towardsdatascience.com/my-absolute-go-to-for-sentiment-analysis-textblob-3ac3a11d524)
 5. [Social media analytics](https://netbasequid.com/blog/what-is-social-media-analytics-why-is-it-important/)
+6. [Seaborn documentation](https://seaborn.pydata.org/)
