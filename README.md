@@ -19,7 +19,7 @@ For this project, the dataset itself is derived from the Twitter accounts itself
 - Comparing analysis with other university departments on Twitter
 
 ### Conclusion
-I learned a lot about about API calls on Twitter, but I would now look into the possibility of making the code more efficient. I will try to find a way to loop through the API calls without a higher developer account access. 
+I learned a lot about about API calls on Twitter, but I would now look into the possibility of making the code more efficient. I will try to find a way to loop through the API calls without a higher developer account access. However, if I had higher access, using non-public metrics like impression counts and profile views would tremendously help this analysis.
 
 ### References
 1. [Twitter APIs](https://developer.twitter.com/en/docs/twitter-api)
