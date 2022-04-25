@@ -3,6 +3,8 @@
 ### Overview and motivation
 Given how most events moved online during COVID-19, having a strong digital presence is a huge advantage for organisations. Therefore, the main problem I would like to answer in this project is which departments at the LSE have the strongest digital presence and whether Twitter is a social media platform worth considering. This is an academic project.
 
+![Image1](https://github.com/RS201918703/ST207-Database-Project/blob/main/figs/DBBrowser%20fig.png)
+
 ### Description
 For this project, the dataset itself is derived from the Twitter accounts itself using API calls. Majority of the code involves extracting the tweets, cleaning them up, and classifying the sentiments of tweets using TextBlob. Following the creation of the dataset, I've analysed the data using packages such as NetworkX, Seaborn, and Matplotlib.
 
