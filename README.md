@@ -18,6 +18,7 @@ For this project, the dataset itself is derived from the Twitter accounts itself
 - Analysing tweets over the years instead of the last 100 tweets
 - Comparing analysis with other social media platforms like Facebook and Instagram
 - Comparing analysis with other university departments on Twitter
+- Efficiency of API calls
 
 ### Conclusion
 I learned a lot about about API calls on Twitter, but I would now look into the possibility of making the code more efficient. I will try to find a way to loop through the API calls without a higher developer account access. However, if I had higher access, using non-public metrics like impression counts and profile views would tremendously help this analysis.
