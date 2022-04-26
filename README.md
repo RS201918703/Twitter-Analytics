@@ -10,7 +10,7 @@ For this project, the dataset itself is derived from the Twitter accounts itself
 
 ### How to run
 - Make sure you have the following packages installed on Python: [Pandas](https://pandas.pydata.org/docs/getting_started/install.html), [NumPy](https://numpy.org/install/), [Seaborn](https://seaborn.pydata.org/installing.html), [Matplotlib](https://matplotlib.org/stable/users/installing/index.html), [BeautifulSoup](https://pypi.org/project/beautifulsoup4/), [Requests](https://pypi.org/project/requests/), [Json](https://pypi.org/project/jsonlib/), [TextBlob](https://textblob.readthedocs.io/en/dev/install.html) and [NetworkX](https://networkx.org/documentation/stable/install.html).
-- Make sure you have a [Twitter Developer account](https://developer.twitter.com/en) with elevated access
+- Make sure you have a [Twitter Developer account](https://developer.twitter.com/en) with **elevated access**
 - Update the [keys.json](https://github.com/RS201918703/Twitter-Analytics/blob/main/keys.json) file with your own access token
 - Run the [data collection code](https://github.com/RS201918703/Twitter-Analytics/blob/main/Data%20collection%20code.ipynb) first
 - Finally, run the [main code](https://github.com/RS201918703/Twitter-Analytics/blob/main/Project%20code.ipynb)
