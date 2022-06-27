@@ -13,7 +13,7 @@ For this project, the dataset itself is derived from the Twitter accounts itself
 - Make sure you have a [Twitter Developer account](https://developer.twitter.com/en) with **elevated access**
 - Update the [keys.json](https://github.com/RS201918703/Twitter-Analytics/blob/main/keys.json) file with your own access token
 - Run the [data collection code](https://github.com/RS201918703/Twitter-Analytics/blob/main/Data%20collection%20code.ipynb) first
-- Finally, run the [main code](https://github.com/RS201918703/Twitter-Analytics/blob/main/Project%20code.ipynb)
+- Finally, run the [main code](https://github.com/RS201918703/Twitter-Analytics/blob/main/Main%20code.ipynb)
 
 ### Improvements
 - Analysing non-public metrics (Unavailable due my Twitter developer account access)
