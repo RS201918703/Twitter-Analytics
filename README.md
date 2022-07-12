@@ -1,7 +1,7 @@
 # Investigating LSE Department's digital presence on Twitter
 
 ### Overview and motivation
-Given how most events moved online during COVID-19, having a strong digital presence is a huge advantage for organisations. Therefore, the main problem I would like to answer in this project is which departments at the LSE have the strongest digital presence and whether Twitter is a social media platform worth considering. This is an academic project.
+Given how most events moved online during COVID-19, having a strong digital presence is a huge advantage for organisations. Therefore, the main problem I would like to answer in this project is which departments at the LSE have the strongest digital presence and whether Twitter is a social media platform worth considering. This is an academic project for ST115.
 
 ![Image1](https://github.com/RS201918703/Twitter-Analytics/blob/main/figs/newplot.png)
 
